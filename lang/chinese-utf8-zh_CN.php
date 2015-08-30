@@ -248,7 +248,7 @@
 	$lang['straddcolumn'] = '添加列';
 	$lang['strcolumnadded'] = '列已添加。';
 	$lang['strcolumnaddedbad'] = '列添加失败。';
-	$lang['strcascade'] = 'CASCADE';
+	$lang['strcascade'] = '级联';
 	$lang['strtablealtered'] = '数据表已变更。';
 	$lang['strtablealteredbad'] = '数据表变更失败。';
 	$lang['strdataonly'] = '仅数据';
